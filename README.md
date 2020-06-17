@@ -1,2 +1,2 @@
-# vue-multi-pages
-vue-cli4 多页面配置及独立打包
+# vue-multi-page
+vue-cli4 多页面配置及分别打包
